@@ -1,0 +1,14 @@
+D:\Visual Studio 2019\BookStore\BookStore.WebContracts\bin\Debug\net6.0\BookStore.WebContracts.deps.json
+D:\Visual Studio 2019\BookStore\BookStore.WebContracts\bin\Debug\net6.0\BookStore.WebContracts.runtimeconfig.json
+D:\Visual Studio 2019\BookStore\BookStore.WebContracts\bin\Debug\net6.0\BookStore.WebContracts.dll
+D:\Visual Studio 2019\BookStore\BookStore.WebContracts\bin\Debug\net6.0\BookStore.WebContracts.pdb
+D:\Visual Studio 2019\BookStore\BookStore.WebContracts\obj\Debug\net6.0\BookStore.WebContracts.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\BookStore\BookStore.WebContracts\obj\Debug\net6.0\BookStore.WebContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2019\BookStore\BookStore.WebContracts\obj\Debug\net6.0\BookStore.WebContracts.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\BookStore\BookStore.WebContracts\obj\Debug\net6.0\BookStore.WebContracts.AssemblyInfo.cs
+D:\Visual Studio 2019\BookStore\BookStore.WebContracts\obj\Debug\net6.0\BookStore.WebContracts.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\BookStore\BookStore.WebContracts\obj\Debug\net6.0\BookStore.WebContracts.dll
+D:\Visual Studio 2019\BookStore\BookStore.WebContracts\obj\Debug\net6.0\refint\BookStore.WebContracts.dll
+D:\Visual Studio 2019\BookStore\BookStore.WebContracts\obj\Debug\net6.0\BookStore.WebContracts.pdb
+D:\Visual Studio 2019\BookStore\BookStore.WebContracts\obj\Debug\net6.0\BookStore.WebContracts.genruntimeconfig.cache
+D:\Visual Studio 2019\BookStore\BookStore.WebContracts\obj\Debug\net6.0\ref\BookStore.WebContracts.dll

@@ -1,0 +1,17 @@
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\bin\Debug\net6.0\BookStore.Services.contracts.deps.json
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\bin\Debug\net6.0\BookStore.Services.contracts.runtimeconfig.json
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\bin\Debug\net6.0\BookStore.Services.contracts.dll
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\bin\Debug\net6.0\BookStore.Services.contracts.pdb
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\bin\Debug\net6.0\BookStore.WebContracts.dll
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\bin\Debug\net6.0\BookStore.WebContracts.pdb
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\obj\Debug\net6.0\BookStore.Services.contracts.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\obj\Debug\net6.0\BookStore.Services.contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\obj\Debug\net6.0\BookStore.Services.contracts.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\obj\Debug\net6.0\BookStore.Services.contracts.AssemblyInfo.cs
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\obj\Debug\net6.0\BookStore.Services.contracts.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\obj\Debug\net6.0\BookStore.Services.contracts.csproj.CopyComplete
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\obj\Debug\net6.0\BookStore.Services.contracts.dll
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\obj\Debug\net6.0\refint\BookStore.Services.contracts.dll
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\obj\Debug\net6.0\BookStore.Services.contracts.pdb
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\obj\Debug\net6.0\BookStore.Services.contracts.genruntimeconfig.cache
+D:\Visual Studio 2019\BookStore\BookStore.Services.contracts\obj\Debug\net6.0\ref\BookStore.Services.contracts.dll
